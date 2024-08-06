@@ -8,7 +8,5 @@ bem vindos ao meu perfil 💝
 
 baby_do_barry (instagram)
 
-<!---
-1137698305/1137698305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://media1.tenor.com/m/8nKtYuN8pmUAAAAC/chopper-toni-chopper.gif)
